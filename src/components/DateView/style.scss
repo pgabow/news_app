@@ -1,0 +1,14 @@
+.dateView {   
+   display: inline-block;
+   padding-bottom: 10px;
+   .month {
+      color: rgba(51, 61, 81, 0.5);
+      font-size: 20px;
+      line-height: 24px;
+   }
+   .day {
+      color: rgba(51, 61, 81, 1);
+      font-size: 30px;
+      line-height: 37px;
+   }
+}

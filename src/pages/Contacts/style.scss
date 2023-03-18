@@ -1,0 +1,36 @@
+.contacts {}
+.img-contact {
+   max-width: 100%;
+}
+.contact-tel {
+   font-size: 60px;
+   line-height: 93%;
+   color: #004FEC;
+   text-decoration: none;
+}
+.contact-tel-wrapp {
+   margin-bottom: 50px;
+}
+.contact-name {
+   font-size: 25px;
+   line-height: 30px;
+   margin-left: 30px;
+}
+.contact-name-wrapp {
+   border-left: 1px solid #004FEC;
+   margin-bottom: 25px;
+}
+.contact-title {
+   margin-top: 50px;
+   color: #333D5180;
+}
+.contact-subtitle {
+   margin-top: 25px;
+   span {
+      color: #004FEC;
+   }
+}
+.contact-link {
+   font-size: 25px;
+   line-height: 30px;
+}
