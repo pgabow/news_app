@@ -1,5 +1,5 @@
 Elon Musk news app
 
-React, redux, ts, scss, bootstrap
+React, redux, ts, scss, bootstrap, rest api
 
-npm run start
+## npm run start
